@@ -1,7 +1,7 @@
 #Code Book
     
     
-1. Merges the training and the test sets to create one data set.
+#1. Merges the training and the test sets to create one data set.
 
 a. Feature.txt and activity_labels.txt was read whihc were saved outside 'train" and "test" directory.
 
@@ -11,8 +11,18 @@ c. Data in the "test" directory was read. Appropriate column names were assigned
 
 d. training and Test data set were combined using rbind command.
 
-2. Extracts only the measurements on the mean and standard deviation for each measurement. 
+#2. Extracts only the measurements on the mean and standard deviation for each measurement. 
 
     
     
-  
+# 3. Use descriptive activity names to name the activities in the data set
+
+
+
+
+# 4. Appropriately labels the data set with descriptive variable names. 
+
+
+# 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+
